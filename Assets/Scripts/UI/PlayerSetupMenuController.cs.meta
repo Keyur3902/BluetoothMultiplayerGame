@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 45e15cd4cf01fc441b78fa6b7d1c9e30
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - titleText: {instanceID: 0}
+  - readyPanel: {instanceID: 0}
+  - menuPanel: {instanceID: 0}
+  - readyButton: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
